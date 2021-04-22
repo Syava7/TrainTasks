@@ -3,5 +3,25 @@
 }
 
 .error {
-    border: 1px solid red;
+  color: red;
+  height: 20px;
+  margin-left: 10px;
+}
+
+.input {
+  margin: 10px;
+  background: white;
+  color: darkmagenta;
+}
+
+.input:focus {
+  outline: none;
+  border: 1px solid darkslateblue;
+}
+
+.errorInput {
+  outline: none;
+  border: 1px solid blue;
+  background: white;
+  color: darkmagenta;
 }
