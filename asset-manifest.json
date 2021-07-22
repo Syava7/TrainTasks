@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/TrainTasks/static/css/main.d3477755.chunk.css",
-    "main.js": "/TrainTasks/static/js/main.1a566975.chunk.js",
-    "main.js.map": "/TrainTasks/static/js/main.1a566975.chunk.js.map",
+    "main.css": "/TrainTasks/static/css/main.1f9cc432.chunk.css",
+    "main.js": "/TrainTasks/static/js/main.cdfca7ab.chunk.js",
+    "main.js.map": "/TrainTasks/static/js/main.cdfca7ab.chunk.js.map",
     "runtime-main.js": "/TrainTasks/static/js/runtime-main.27ad9081.js",
     "runtime-main.js.map": "/TrainTasks/static/js/runtime-main.27ad9081.js.map",
-    "static/js/2.ef239329.chunk.js": "/TrainTasks/static/js/2.ef239329.chunk.js",
-    "static/js/2.ef239329.chunk.js.map": "/TrainTasks/static/js/2.ef239329.chunk.js.map",
+    "static/js/2.df377689.chunk.js": "/TrainTasks/static/js/2.df377689.chunk.js",
+    "static/js/2.df377689.chunk.js.map": "/TrainTasks/static/js/2.df377689.chunk.js.map",
     "index.html": "/TrainTasks/index.html",
-    "static/css/main.d3477755.chunk.css.map": "/TrainTasks/static/css/main.d3477755.chunk.css.map",
-    "static/js/2.ef239329.chunk.js.LICENSE.txt": "/TrainTasks/static/js/2.ef239329.chunk.js.LICENSE.txt"
+    "static/css/main.1f9cc432.chunk.css.map": "/TrainTasks/static/css/main.1f9cc432.chunk.css.map",
+    "static/js/2.df377689.chunk.js.LICENSE.txt": "/TrainTasks/static/js/2.df377689.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.27ad9081.js",
-    "static/js/2.ef239329.chunk.js",
-    "static/css/main.d3477755.chunk.css",
-    "static/js/main.1a566975.chunk.js"
+    "static/js/2.df377689.chunk.js",
+    "static/css/main.1f9cc432.chunk.css",
+    "static/js/main.cdfca7ab.chunk.js"
   ]
 }
