@@ -12,16 +12,16 @@ function Clock() {
     const start = () => {
         stop()
         const id: number = window.setInterval(() => {
-            // setDate
+            setDate(date)
         }, 1000)
-        setTimerId(id)
+        setTimerId(timerId)
     }
 
     const onMouseEnter = () => {
-        // show
+      setShow(true)
     }
     const onMouseLeave = () => {
-        // close
+      setShow(false)
     }
 
     const stringTime = 'Time' // fix with date
