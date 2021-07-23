@@ -41,7 +41,7 @@ function HW8() {
 
             <div><SuperButton onClick={sortUp}>sort up</SuperButton></div>
             <div><SuperButton onClick={sortDown}>sort down</SuperButton></div>
-            <div><SuperButton onClick={check}>check</SuperButton></div>
+            <div><SuperButton onClick={check}>check 18</SuperButton></div>
 
             <hr/>
             {/*для личного творчества, могу проверить*/}
